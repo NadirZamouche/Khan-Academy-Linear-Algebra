@@ -25,7 +25,7 @@ Credit to https://github.com/wcbeard/linear-algebra-review-notes for the provide
     3. Left Null and Row Space
 
 
-# All_sections.ipynb Table of Contents
+# Linear Algebra.ipynb Table of Contents
 
 * Vectors & Spaces
     * Vectors
