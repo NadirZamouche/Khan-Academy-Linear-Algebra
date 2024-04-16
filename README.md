@@ -1,10 +1,8 @@
 # Linear-Algebra-Khan-Academy
 
-Credit to https://github.com/frnsys/ai_notes for a number of explanations and latex code. I have indicated the sections in the notebook where I quoted directly from this notebook.
-
 Review of the Linear Algebra playlist on Khan Academy is conducted through a notebook named .ipynb. This notebook contains notes, custom functions, and graphs designed to facilitate the review of Khan Academy's Linear Algebra playlist.
 
-Credit to https://github.com/frnsys/ai_notes for the notebook, noting where direct quotes are used.
+Credit to https://github.com/corybaird/Linear_Algebra_Khan?tab=readme-ov-file#Functions-and-linear-transformations for the notebook, noting where direct quotes are used.
 
 # Overview of Files
 1. All_sections.ipynb:
