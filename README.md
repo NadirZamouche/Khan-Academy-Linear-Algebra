@@ -1,4 +1,4 @@
-# Linear-Algebra-KhanAcademy
+# Linear-Algebra-Khan-Academy
 Review of Linear Algebra playlist on Khan Academy.
 
 The All_sections.ipynb notebook is a series of notes, user created functions, and graphs in order to review the Linear Algebra playlist on Khan Academy.
