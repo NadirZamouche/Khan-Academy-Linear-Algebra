@@ -1,6 +1,6 @@
 # Linear-Algebra-Khan-Academy
 
-Review of the Linear Algebra playlist on Khan Academy is conducted through a notebook named .ipynb. This notebook contains notes, custom functions, and graphs designed to facilitate the review of Khan Academy's Linear Algebra playlist.
+Review of the Linear Algebra playlist on Khan Academy is conducted through a notebook named linear-algebra-notes.ipynb. This notebook contains notes, custom functions, and graphs designed to facilitate the review of Khan Academy's Linear Algebra playlist.
 
 Credit to https://github.com/corybaird/Linear_Algebra_Khan?tab=readme-ov-file#Functions-and-linear-transformations for the notebook, noting where direct quotes are used.
 
