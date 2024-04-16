@@ -1,16 +1,16 @@
 # Linear-Algebra-Khan-Academy
 
-Review of the Linear Algebra playlist on Khan Academy is conducted through a notebook named linear-algebra-notes.ipynb. This notebook contains notes, custom functions, and graphs designed to facilitate the review of Khan Academy's Linear Algebra playlist.
+Review of the Linear Algebra playlist on Khan Academy is conducted through a notebook named Linear Algebra.ipynb. This notebook contains notes, custom functions, and graphs designed to facilitate the review of Khan Academy's Linear Algebra playlist.
 
 Credit to https://github.com/corybaird/Linear_Algebra_Khan?tab=readme-ov-file#Functions-and-linear-transformations for the provided notebook, screenshots and custom functions.
 
 Credit to https://github.com/wcbeard/linear-algebra-review-notes for the provided PDF file.
 
 # Overview of Files
-1. All_sections.ipynb:
+1. Linear Algebra.ipynb:
     * Includes all three sections (Vectors & Spaces, Matrix Transformations, Alternative coordinate systems) of the Khan Academy playlist
 
-2. [User created functions](#User-created-functions):
+2. User created functions:
     * Python:
         - vector.py, projection.py, graph_multiple.py, Change_basis.py, Notebook_functions.py, OOP_all_functions.py
     * Python notebook
