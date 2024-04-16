@@ -4,7 +4,7 @@ Review of the Linear Algebra playlist on Khan Academy is conducted through a not
 
 Credit to https://github.com/corybaird/Linear_Algebra_Khan?tab=readme-ov-file#Functions-and-linear-transformations for the provided notebook, screenshots and custom functions.
 
-Credit to https://github.com/wcbeard/linear-algebra-review-notesfor the provided PDF file.
+Credit to https://github.com/wcbeard/linear-algebra-review-notes for the provided PDF file.
 
 # Overview of Files
 1. All_sections.ipynb:
