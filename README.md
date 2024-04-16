@@ -27,28 +27,28 @@ Credit to https://github.com/wcbeard/linear-algebra-review-notes for the provide
 
 # All_sections.ipynb Table of Contents
 
-* [Vectors & Spaces](#Vectors-&-spaces)
-    * [Vectors](#Vectors)
-    * [Linear dependence & independence](#Linear-dependence-&-independence)
-    * [Vector dot and cross prodcuts](#Vector-dot-and-cross-prodcuts)
+* Vectors & Spaces
+    * Vectors
+    * Linear dependence & independence
+    * Vector dot and cross prodcuts
 
 
-* [Matrix Transformations](#Matrix-Transformations)
-    * [Functions and linear transformations](#Functions-and-linear-transformations)
-    * [Linear transformation examples](#Linear-transformation-examples)
-    * [Transformations and Matrix Multiplication](#Transformations-and-Matrix-Multiplication)
-    * [Inverse functions & Transformations](#Inverse-functions-&-Transformations)
-    * [Finding inverses & determinants](#Finding-inverses-&-determinants)
-    * [More determinant depth](#More-determinant-depth)
-    * [Transpose of a matrix](#Transpose-of-a-matrix)
+* Matrix Transformations
+    * Functions and linear transformations
+    * Linear transformation examples
+    * Transformations and Matrix Multiplication
+    * Inverse functions & Transformations
+    * Finding inverses & determinants
+    * More determinant depth
+    * Transpose of a matrix
 
 
-* [Alternate coordinate systems](#Alternate-coordinate-systems)
-    * [Orthogonal complements](#Orthogonal-complements)
-    * [Orthogonal Projections](#rthogonal-Projections)
-    * [Change of basis](#Change-of-basis)
-    * [Orthonormal bases and the Gram-Schmidt process](#Orthonormal-bases-and-the-Gram-Schmidt-process)
-    * [Eigen-everything](#Eigen-everything)
+* Alternate coordinate systems
+    * Orthogonal complements
+    * Orthogonal Projections
+    * Change of basis
+    * Orthonormal bases and the Gram-Schmidt process
+    * Eigen-everything
 
 # User Created Functions
 
