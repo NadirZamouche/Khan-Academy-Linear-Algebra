@@ -71,3 +71,5 @@ Credit to https://github.com/wcbeard/linear-algebra-review-notes for the provide
 * OOP_all_functions.py
     - Includes a few of above functions using OOP format.
     - Also includes graphing in matplotlib using quiver
+
+## "Linear algebra is the art of choosing the right basis."
