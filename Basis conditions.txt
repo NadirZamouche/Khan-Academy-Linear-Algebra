@@ -1,0 +1,14 @@
+* Subspace conditions:
+  - Includes the zero vector.
+  - Closed under addition.
+  - Closed under multiplication.
+
+* Basis conditions:
+  - Subspace.
+  - Linearly independent.
+
+* Othonormal basis conditions:
+  - Subspace.
+  - Linearly independant.
+  - The magnitude of each vector should equal 1 (normalized).
+  - The dot product of any two distinct vectors should be 0 (orthogonal).
